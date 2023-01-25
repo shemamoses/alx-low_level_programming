@@ -13,4 +13,4 @@ How to select the best sorting algorithm for a given input
 What is a stable sorting algorithm
 ## Authors
 ```
-* Niyigena fiston alvin [@maycolroa](https://github.com/ALVINdimpos)
+* Niyigena fiston alvin [@ALVINdimpos](https://github.com/ALVINdimpos)
